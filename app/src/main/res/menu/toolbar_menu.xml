@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/xiaoxi_id"
+        android:icon="@drawable/xiaoxi"
+        android:title="message"
+        app:showAsAction="ifRoom"/>
+
+<!--        ifRoom表示空间够就显示图标-->
+</menu>
